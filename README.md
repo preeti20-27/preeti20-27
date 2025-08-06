@@ -26,12 +26,12 @@
 
 ## 🛠️ Skills & Tools
 
-Python
-C 
-Java
+Machine Learning,
+Data Science,
+Python,
+C,
+Java,
 Linux
-Machine Learning
-Data Science
 
 ---
 
