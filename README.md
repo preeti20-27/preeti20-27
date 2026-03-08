@@ -1,4 +1,4 @@
-# Hi there, I'm Preeti! 👋
+# Hi there, I'm Preeti! 
 
  **Student | Computer Science @ VIT Chennai (3rd Year)**  
  **Machine Learning & Data Science Enthusiast**  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 -  I love exploring **Machine Learning**,  **Data Science**. 
 -  Skilled in **Python**, **C**, and **Java**.
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 Top Project
+##  Top Project
 
 ### [Multilevel Emotion Detection (ML Project using RoBERTa)]
 > A deep learning project to detect complex emotions from text using state-of-the-art NLP (RoBERTa).  
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 Machine Learning,
 Data Science,
@@ -35,13 +35,10 @@ Linux
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/preeti-yadav-9805a9377/)  
 - _Let’s chat about tech, ML, or just good music!_
 
 ---
 
-## 🎶 Fun Fact
-
-I code to the rhythm of my favorite tunes, and I believe good dance moves can debug any code! 💃
