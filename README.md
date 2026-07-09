@@ -1,5 +1,5 @@
 # Preeti Yadav
-**Computer Science Undergraduate, VIT Chennai (3rd Year)**
+**Computer Science Undergraduate, VIT Chennai (Final Year)**
 Focused on distributed systems, databases, and backend engineering, with a background in Machine Learning and Data Science.
 
 ---
